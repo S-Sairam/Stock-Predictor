@@ -14,7 +14,7 @@ This repository contains an **LSTM-based Stock Predictor**, designed to analyze 
 
 ## 📈 Dataset
 
-The model was trained and evaluated using the **[NIFTY-50 Stock Market Data](2000 - 2021)(https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data?select=HCLTECH.csv)**, specifically HCLTECH ,  which provides features such as:
+The model was trained and evaluated using the **[NIFTY-50 Stock Market Data(2000 - 2021)](https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data?select=HCLTECH.csv)**, specifically HCLTECH ,  which provides features such as:
 - **Open**: Opening price of the stock
 - **Low**: Lowest price during the trading day
 - **Previous Close**: Closing price of the stock
