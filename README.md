@@ -6,7 +6,7 @@ This repository contains an **LSTM-based Stock Predictor**, designed to analyze 
 
 ## 📋 Index
 
-1. [Dataset](https://github.com/S-Sairam/Stock-Predictor/edit/main/README.md#-dataset)
+1. [Dataset](#dataset)
 2. [Results](#results)
 3. [Model Architecture](#model-architecture)
 4. [Future Scope](#future-scope)
